@@ -1,2 +1,6 @@
---- []
+---
+- title: Ressources
+  target: "/ressources/"
+  kind: page
+  children: []
 
