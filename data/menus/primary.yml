@@ -1,10 +1,10 @@
 ---
 - title: Ressources
-  target: "/ressources/"
+  target: "/fr/ressources/"
   kind: page
   children: []
 - title: Parcours
-  target: "/parcours/"
+  target: "/fr/parcours/"
   kind: page
   children: []
 
