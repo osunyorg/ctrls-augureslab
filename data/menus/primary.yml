@@ -15,4 +15,8 @@
     target: "/fr/modules-numerique-responsable/ressources/"
     kind: page
     children: []
+- title: Introduction
+  target: "/fr/modules-numerique-responsable/"
+  kind: page
+  children: []
 
