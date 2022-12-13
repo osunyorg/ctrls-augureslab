@@ -3,16 +3,16 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
-- title: Ressources
-  target: "/fr/modules-numerique-responsable/ressources/"
-  kind: page
-  children: []
 - title: Modules numérique responsable
   target: "/fr/modules-numerique-responsable/"
   kind: page
   children:
   - title: Parcours
     target: "/fr/modules-numerique-responsable/parcours/"
+    kind: page
+    children: []
+  - title: Ressources
+    target: "/fr/modules-numerique-responsable/ressources/"
     kind: page
     children: []
 
