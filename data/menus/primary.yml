@@ -1,7 +1,7 @@
 ---
 - title: Actualités
-  target: "/"
-  kind: blank
+  target: "/fr/actualites/"
+  kind: posts
   children: []
 - title: Ressources
   target: "/fr/modules-numerique-responsable-pour-la-construction-dun-programme-adapte-aux-ecoles-dart-et-de-design/ressources/"
