@@ -1,22 +1,22 @@
 ---
 - title: Actualités
-  target: "/fr/actualites/"
+  target: "/actualites/"
   kind: posts
   children: []
 - title: Modules numérique responsable
-  target: "/fr/modules-numerique-responsable/"
+  target: "/modules-numerique-responsable/"
   kind: page
   children:
   - title: Introduction
-    target: "/fr/modules-numerique-responsable/"
+    target: "/modules-numerique-responsable/"
     kind: page
     children: []
   - title: Parcours
-    target: "/fr/modules-numerique-responsable/parcours/"
+    target: "/modules-numerique-responsable/parcours/"
     kind: page
     children: []
   - title: Ressources
-    target: "/fr/modules-numerique-responsable/ressources/"
+    target: "/modules-numerique-responsable/ressources/"
     kind: page
     children: []
 
