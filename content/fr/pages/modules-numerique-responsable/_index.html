@@ -58,15 +58,23 @@ contents_reading_time:
   text: >-
     2 minutes
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Introduction
-    slug: "introduction"
-    position: 1
-    rank: 2
+    slug: >-
+      introduction
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -91,6 +99,8 @@ contents:
     template: pages
     title: >-
       Ressources
+    slug: >-
+      ressources
     ranks:
       self: 3
       children: 4
@@ -116,6 +126,8 @@ contents:
     template: pages
     title: >-
       Parcours
+    slug: >-
+      parcours
     ranks:
       self: 3
       children: 4
@@ -135,7 +147,6 @@ contents:
           slug: "comprehension-profonde-des-enjeux"
           file: "pages/modules-numerique-responsable/parcours/comprehension-profonde-des-enjeux/_index.html"
           external: false
-
 
 
 
