@@ -5,6 +5,7 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Modules numérique responsable
   target: "/modules-numerique-responsable/"
   kind: page
@@ -13,12 +14,16 @@ items:
     target: "/modules-numerique-responsable/"
     kind: page
     children: []
+    file: content/fr/pages/modules-numerique-responsable/_index.html
   - title: Parcours
     target: "/modules-numerique-responsable/parcours/"
     kind: page
     children: []
+    file: content/fr/pages/modules-numerique-responsable/parcours/_index.html
   - title: Ressources
     target: "/modules-numerique-responsable/ressources/"
     kind: page
     children: []
+    file: content/fr/pages/modules-numerique-responsable/ressources/_index.html
+  file: content/fr/pages/modules-numerique-responsable/_index.html
 
