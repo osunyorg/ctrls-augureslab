@@ -2,38 +2,51 @@
 title: Primary
 items:
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Modules numérique responsable
+  slug: modules-numerique-responsable
   target: "/modules-numerique-responsable/"
   kind: page
   new_tab: false
   children:
   - title: Introduction
+    slug: introduction
     target: "/modules-numerique-responsable/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/modules-numerique-responsable"
     file: content/fr/pages/modules-numerique-responsable/_index.html
   - title: Parcours
+    slug: parcours
     target: "/modules-numerique-responsable/parcours/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/modules-numerique-responsable/parcours"
     file: content/fr/pages/modules-numerique-responsable/parcours/_index.html
   - title: Ressources
+    slug: ressources
     target: "/modules-numerique-responsable/ressources/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/modules-numerique-responsable/ressources"
     file: content/fr/pages/modules-numerique-responsable/ressources/_index.html
+  descendants_targets:
+  - "/modules-numerique-responsable/"
+  - "/modules-numerique-responsable/parcours/"
+  - "/modules-numerique-responsable/ressources/"
   path: "/pages/modules-numerique-responsable"
   file: content/fr/pages/modules-numerique-responsable/_index.html
 
